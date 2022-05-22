@@ -1,4 +1,4 @@
-
+#!name=b站整合
 #!desc=哔哩哔哩脚本重写整合
 [Rule]
 DOMAIN-SUFFIX,cm.bilibili.com,REJECT
